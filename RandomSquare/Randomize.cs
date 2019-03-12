@@ -43,7 +43,7 @@ namespace RandomSquare
                 }
             }
 
-            Console.WriteLine($"list of Random numbers: {randomNumbersString.TrimEnd(',')}");
+            Console.WriteLine($"List of Random numbers: {randomNumbersString.TrimEnd(',')}");
             Console.WriteLine($"List of Square numbers: {squareNumbersString.TrimEnd(',')}");
             Console.WriteLine($"List of Even Square Numbers: {ListofEvenNumbers.TrimEnd(',')}");
         }
